@@ -1,4 +1,4 @@
-# CS 1571 Project 1
+# CS 1571 Project 1: Graph Search Puzzle Solver
 
 ## Project Setup
 -	Python version: 2.7
